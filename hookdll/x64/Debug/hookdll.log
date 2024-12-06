@@ -1,0 +1,4 @@
+﻿  hookdll.cpp
+E:\C++project\hookdll\hookdll.cpp(18,17): warning C4244: “初始化”: 从“LPARAM”转换到“LONG”，可能丢失数据
+    正在创建库 E:\C++project\hookdll\x64\Debug\hookdll.lib 和对象 E:\C++project\hookdll\x64\Debug\hookdll.exp
+  hookdll.vcxproj -> E:\C++project\hookdll\x64\Debug\hookdll.dll

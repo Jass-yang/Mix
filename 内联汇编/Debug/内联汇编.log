@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\C++project\内联汇编\test.cpp(9): warning C4405: “str”: 标识符是保留字
+  内联汇编.vcxproj -> E:\C++project\内联汇编\Debug\内联汇编.exe
